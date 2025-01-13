@@ -5,4 +5,4 @@
 
 https://raw.githubusercontent.com/blankvip/Direct-Rule/main/Direct-Rule.list
 
-https://raw.githubusercontent.com/blankvip/Direct-Rule/main/zlfxl.ist
+https://raw.githubusercontent.com/blankvip/Direct-Rule/main/Mihomo Party ZLFX.js
