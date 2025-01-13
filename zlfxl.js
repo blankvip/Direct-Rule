@@ -1,10 +1,10 @@
 // https://mihomo.party/docs/guide/override/javascript
 function main(config) {
-  config.rules = [
+  config.rules.unshift(
     'DOMAIN-KEYWORD,1pt,DIRECT',
     'DOMAIN-SUFFIX,myds.me,DIRECT',
     'DOMAIN-KEYWORD,hhanclub,DIRECT',
-    'DOMAIN-KEYWORD,myds,DIRECT', ,
+    'DOMAIN-KEYWORD,myds,DIRECT',
     'DOMAIN-KEYWORD,1ptba,DIRECT',
     'DOMAIN-KEYWORD,hddolby,DIRECT',
     'DOMAIN-KEYWORD,m-team,DIRECT',
@@ -64,10 +64,6 @@ function main(config) {
     'DOMAIN-KEYWORD,leniter,DIRECT', 
     'DOMAIN-KEYWORD,hdcity,DIRECT', 
     'DOMAIN-KEYWORD,chiphell,DIRECT', 
-    'DOMAIN-KEYWORD,ptcafe,DIRECT', 
-    'DOMAIN-KEYWORD,sunnypt,DIRECT', 
-    'DOMAIN-KEYWORD,dicmusic,DIRECT',  
-    ...config.rules
-  ]
+  );
   return config;
 }
