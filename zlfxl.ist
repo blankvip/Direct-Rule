@@ -1,4 +1,4 @@
-// Define main function (script entry)
+// https://mihomo.party/docs/guide/override/javascript
 function main(config) {
   config.rules = [
     'DOMAIN-KEYWORD,1pt,DIRECT',
