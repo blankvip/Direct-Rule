@@ -3,6 +3,6 @@
 
 配置链接：
 
-https://raw.githubusercontent.com/blankvip/Direct-Rule/main/Direct-Rule.list
+https://raw.githubusercontent.com/blankvip/Direct-Rule/main/Loon-Direct.list
 
 https://raw.githubusercontent.com/blankvip/Direct-Rule/main/MPZLFX.js
