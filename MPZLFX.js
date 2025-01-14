@@ -64,6 +64,10 @@ function main(config) {
     'DOMAIN-KEYWORD,leniter,DIRECT', 
     'DOMAIN-KEYWORD,hdcity,DIRECT', 
     'DOMAIN-KEYWORD,chiphell,DIRECT', 
+    'DOMAIN-KEYWORD,sunnypt,DIRECT', 
+    'DOMAIN-KEYWORD,ptcafe,DIRECT', 
+    'DOMAIN-KEYWORD,shicheng,DIRECT', 
+    'DOMAIN-KEYWORD,dicmusic,DIRECT', 
   );
   return config;
 }
