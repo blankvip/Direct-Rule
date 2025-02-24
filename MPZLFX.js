@@ -68,7 +68,8 @@ function main(config) {
     'DOMAIN-KEYWORD,ptcafe,DIRECT', 
     'DOMAIN-KEYWORD,shicheng,DIRECT', 
     'DOMAIN-KEYWORD,dicmusic,DIRECT', 
-    'DOMAIN-KEYWORD,hdbao,DIRECT', 
+    'DOMAIN-KEYWORD,hdbao,DIRECT'， 
+    'DOMAIN-KEYWORD,gxnas,DIRECT'， 
 
   );
   return config;
