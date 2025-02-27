@@ -70,6 +70,7 @@ function main(config) {
     'DOMAIN-KEYWORD,dicmusic,DIRECT', 
     'DOMAIN-KEYWORD,hdbao,DIRECT', 
     'DOMAIN-KEYWORD,gxnas,DIRECT', 
+    'DOMAIN-KEYWORD,torrenthub,DIRECT'，     
   );
   return config;
 }
