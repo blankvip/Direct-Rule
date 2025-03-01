@@ -71,7 +71,7 @@ function main(config) {
     'DOMAIN-KEYWORD,hdbao,DIRECT', 
     'DOMAIN-KEYWORD,gxnas,DIRECT', 
     'DOMAIN-KEYWORD,torrenthub,DIRECT',
-    'DOMAIN-KEYWORD,hspt,DIRECT', 
+    'DOMAIN-KEYWORD,hspt,DIRECT',
     'DOMAIN-KEYWORD,tmpt,DIRECT'
 );
   return config;
