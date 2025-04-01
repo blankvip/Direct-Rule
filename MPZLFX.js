@@ -74,6 +74,8 @@ function main(config) {
     'DOMAIN-KEYWORD,hdsky,DIRECT',
     'DOMAIN-KEYWORD,hspt,DIRECT',
     'DOMAIN-KEYWORD,cspt,DIRECT',
+    'DOMAIN-KEYWORD,ptlover,DIRECT',
+    'DOMAIN-KEYWORD,htpt,DIRECT',
     'DOMAIN-KEYWORD,tmpt,DIRECT'
 );
   return config;
