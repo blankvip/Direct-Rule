@@ -3,6 +3,7 @@ function main(config) {
   config.rules.unshift(
     'DOMAIN-KEYWORD,1pt,DIRECT',
     'DOMAIN-SUFFIX,myds.me,DIRECT',
+    'DOMAIN-SUFFIX,open.cd,DIRECT',
     'DOMAIN-KEYWORD,hhanclub,DIRECT',
     'DOMAIN-KEYWORD,myds,DIRECT',
     'DOMAIN-KEYWORD,1ptba,DIRECT',
