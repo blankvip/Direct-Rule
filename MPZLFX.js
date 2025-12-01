@@ -7,7 +7,6 @@ function main(config) {
     'DOMAIN-KEYWORD,hhanclub,DIRECT',
     'DOMAIN-KEYWORD,myds,DIRECT',
     'DOMAIN-KEYWORD,1ptba,DIRECT',
-    'DOMAIN-KEYWORD,hddolby,DIRECT',
     'DOMAIN-KEYWORD,m-team,DIRECT',
     'DOMAIN-KEYWORD,hddolby,DIRECT',
     'DOMAIN-KEYWORD,springsunday,DIRECT',
