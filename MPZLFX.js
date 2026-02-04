@@ -75,7 +75,8 @@ function main(config) {
     'DOMAIN-KEYWORD,hspt,DIRECT',
     'DOMAIN-KEYWORD,cspt,DIRECT',
     'DOMAIN-KEYWORD,ptlover,DIRECT',
-    'DOMAIN-KEYWORD,htpt,DIRECT',
+    'DOMAIN-KEYWORD,htpt,DIRECT'，
+    'DOMAIN-KEYWORD,apphot,DIRECT',
     'DOMAIN-KEYWORD,tmpt,DIRECT'
 );
   return config;
