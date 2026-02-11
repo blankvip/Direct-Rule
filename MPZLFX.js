@@ -5,6 +5,7 @@ function main(config) {
     'DOMAIN-SUFFIX,myds.me,DIRECT',
     'DOMAIN-SUFFIX,zblank.top,DIRECT',
     'DOMAIN-SUFFIX,open.cd,DIRECT',
+    'DOMAIN-SUFFIX,rousi.pro,DIRECT',
     'DOMAIN-KEYWORD,hhanclub,DIRECT',
     'DOMAIN-KEYWORD,myds,DIRECT',
     'DOMAIN-KEYWORD,1ptba,DIRECT',
