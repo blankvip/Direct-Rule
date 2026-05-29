@@ -58,7 +58,7 @@ function main(config) {
     'DOMAIN-KEYWORD,haidan,DIRECT', 
     'DOMAIN-KEYWORD,hdhome,DIRECT', 
     'DOMAIN-KEYWORD,tjupt,DIRECT', 
-    'DOMAIN-KEYWORD,LemonHD,DIRECT', 
+    'DOMAIN-KEYWORD,LemonHD,DIRECT'， 
     'DOMAIN-KEYWORD,hdpt,DIRECT'， 
     'DOMAIN-KEYWORD,ourbits,DIRECT', 
     'DOMAIN-KEYWORD,ecust,DIRECT', 
