@@ -49,7 +49,7 @@ function main(config) {
     'DOMAIN-KEYWORD,keepfrds,DIRECT',
     'DOMAIN-KEYWORD,dida365,DIRECT',
     'DOMAIN-KEYWORD,ptchdbits,DIRECT',
-    'DOMAIN-KEYWORD,piggo,DIRECT'， 
+    'DOMAIN-KEYWORD,piggo,DIRECT', 
     'DOMAIN-KEYWORD,raingfh,DIRECT', 
     'DOMAIN-KEYWORD,et8,DIRECT', 
     'DOMAIN-KEYWORD,ptlgs,DIRECT', 
@@ -58,8 +58,8 @@ function main(config) {
     'DOMAIN-KEYWORD,haidan,DIRECT', 
     'DOMAIN-KEYWORD,hdhome,DIRECT', 
     'DOMAIN-KEYWORD,tjupt,DIRECT', 
-    'DOMAIN-KEYWORD,LemonHD,DIRECT'， 
-    'DOMAIN-KEYWORD,hdpt,DIRECT'， 
+    'DOMAIN-KEYWORD,LemonHD,DIRECT', 
+    'DOMAIN-KEYWORD,hdpt,DIRECT', 
     'DOMAIN-KEYWORD,ourbits,DIRECT', 
     'DOMAIN-KEYWORD,ecust,DIRECT', 
     'DOMAIN-KEYWORD,PTHOME,DIRECT', 
@@ -78,7 +78,7 @@ function main(config) {
     'DOMAIN-KEYWORD,ptlover,DIRECT',
     'DOMAIN-KEYWORD,htpt,DIRECT',
     'DOMAIN-KEYWORD,apphot,DIRECT',
-    'DOMAIN-KEYWORD,smartpos,DIRECT'，
+    'DOMAIN-KEYWORD,smartpos,DIRECT',
     'DOMAIN-KEYWORD,keyijievip,DIRECT',
     'DOMAIN-KEYWORD,tmpt,DIRECT'
 );
