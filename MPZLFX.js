@@ -72,7 +72,6 @@ function main(config) {
     'DOMAIN-KEYWORD,dicmusic,DIRECT', 
     'DOMAIN-KEYWORD,hdbao,DIRECT', 
     'DOMAIN-KEYWORD,gxnas,DIRECT', 
-    'DOMAIN-KEYWORD,torrenthub,DIRECT',
     'DOMAIN-KEYWORD,hdsky,DIRECT',
     'DOMAIN-KEYWORD,hspt,DIRECT',
     'DOMAIN-KEYWORD,cspt,DIRECT',
