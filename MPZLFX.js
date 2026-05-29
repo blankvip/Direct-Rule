@@ -79,6 +79,7 @@ function main(config) {
     'DOMAIN-KEYWORD,ptlover,DIRECT',
     'DOMAIN-KEYWORD,htpt,DIRECT',
     'DOMAIN-KEYWORD,apphot,DIRECT',
+    'DOMAIN-KEYWORD,smartpos,DIRECT',
     'DOMAIN-KEYWORD,tmpt,DIRECT'
 );
   return config;
