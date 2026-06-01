@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/blankvip/Direct-Rule/main/Loon-Direct.list
 https://raw.githubusercontent.com/blankvip/Direct-Rule/main/MPZLFX.js
 
 https://raw.githubusercontent.com/blankvip/Direct-Rule/main/ptzl.txt
+
+https://raw.githubusercontent.com/blankvip/Direct-Rule/main/FlClashZL.js
