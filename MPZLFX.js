@@ -80,6 +80,7 @@ function main(config) {
     'DOMAIN-KEYWORD,apphot,DIRECT',
     'DOMAIN-KEYWORD,smartpos,DIRECT',
     'DOMAIN-KEYWORD,keyijievip,DIRECT',
+    'DOMAIN-KEYWORD,aipoju,DIRECT',
     'DOMAIN-KEYWORD,tmpt,DIRECT'
 );
   return config;
