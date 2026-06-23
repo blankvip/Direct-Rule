@@ -7,7 +7,6 @@ function main(config) {
     'DOMAIN-SUFFIX,open.cd,DIRECT',
     'DOMAIN-SUFFIX,rousi.pro,DIRECT',
 	'DOMAIN-SUFFIX,dstudio.me,DIRECT',
-	'DOMAIN-SUFFIX,dstudio.me,DIRECT',
     'DOMAIN-KEYWORD,hhanclub,DIRECT',
     'DOMAIN-KEYWORD,myds,DIRECT',
     'DOMAIN-KEYWORD,1ptba,DIRECT',
