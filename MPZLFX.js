@@ -2,7 +2,7 @@
 function main(config) {
   config.rules.unshift(
     'DOMAIN-KEYWORD,1pt,DIRECT',
-    'DOMAIN-SUFFIX,myds.me,DIRECT',	
+    'DOMAIN-SUFFIX,myds.me,DIRECT',
 	'DOMAIN-SUFFIX,dstudio.me,DIRECT',
     'DOMAIN-SUFFIX,zblank.top,DIRECT',
     'DOMAIN-SUFFIX,open.cd,DIRECT',
