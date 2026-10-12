@@ -6,6 +6,7 @@ function main(config) {
 	'DOMAIN-SUFFIX,dstudio.me,DIRECT',
     'DOMAIN-SUFFIX,zblank.top,DIRECT',
     'DOMAIN-SUFFIX,open.cd,DIRECT',
+    'DOMAIN-SUFFIX,mmstat.com,DIRECT',
     'DOMAIN-SUFFIX,rousi.pro,DIRECT',
     'DOMAIN-KEYWORD,hhanclub,DIRECT',
     'DOMAIN-KEYWORD,myds,DIRECT',
